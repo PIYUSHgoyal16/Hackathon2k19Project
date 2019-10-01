@@ -5,6 +5,3 @@ In this way. we will possibly be able to provide medicines to the poor at a lowe
 This web app will also lower the amount of medicines that are being wasted due to expiration, which indeed will give profit to the customer, retailer, company and even the owner of the web app, i.e. us.
 This will save environment as well as raw materials.
 
-EXPANSIONS:
-1) Recommendation of the medicines having similar active ingredient so that the same benefit can be obtained at lesser price.
-2) Recommendation of medicines based on the illness(artificial doctor).
